@@ -1,0 +1,22 @@
+body {
+	background-color: rgb(180,180,180);
+	color: black;
+	font-family: helvetica;
+	font-weight: lighter;
+}
+
+h1 {
+ color: black;
+ font-family: helvetica;
+ font-weight: 100;
+ letter-spacing: 10px;
+ font-size: 60px;
+
+ }
+
+h2,h3,h4 {
+	color: #8C52FF;
+	font-family: font-family: 'Andika New Basic', sans-serif;
+	font-weight: lighter;
+
+	}
